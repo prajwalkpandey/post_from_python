@@ -1,7 +1,9 @@
 #Publish a Text
+
 These python codes help you to publish a text post on your facebook page using Graph API
 
 #Setup
+
 Required Python Libraries--
 1- json
 2- requests
@@ -9,6 +11,7 @@ Required Python Libraries--
 4- sys
 
 #How to Use
+
 1- At first go to facebook developers website and singup as a developer.
 2- Then goto Tools and Graph API Explorer.
 3- Create your new APP.
