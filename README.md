@@ -1,4 +1,4 @@
-# Publish a Text
+# POST FROM PYTHON
 
 These python codes help you to publish a text post on your facebook page using Graph API
 
